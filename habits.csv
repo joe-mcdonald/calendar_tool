@@ -1,0 +1,3 @@
+habit_name,duration_minutes,earliest_start,latest_end,buffer_minutes,priority,days_of_week
+Gym,90,15:00,20:00,30,1,5
+Read,30,08:00,10:00,0,2,3
